@@ -1,0 +1,43 @@
+PODS:
+  - Alamofire (5.4.1)
+  - IQKeyboardManagerSwift (6.5.6)
+  - ObjectMapper (4.2.0)
+  - ReachabilitySwift (3)
+  - SDWebImage (3.8.3):
+    - SDWebImage/Core (= 3.8.3)
+  - SDWebImage/Core (3.8.3)
+  - SVProgressHUD (2.2.5)
+  - UIActivityIndicator-for-SDWebImage (1.2):
+    - SDWebImage (~> 3.7)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManagerSwift
+  - ObjectMapper
+  - ReachabilitySwift (~> 3)
+  - SDWebImage (~> 3.2)
+  - SVProgressHUD
+  - UIActivityIndicator-for-SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - ObjectMapper
+    - ReachabilitySwift
+    - SDWebImage
+    - SVProgressHUD
+    - UIActivityIndicator-for-SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+  SDWebImage: a72e880a8fe0f7fc31efe15aaed443c074d2a80c
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  UIActivityIndicator-for-SDWebImage: 7bf7ebbf0ed1747dedc0d6e949c4603a6d0f9e0c
+
+PODFILE CHECKSUM: 1a23816903ddb37843eeb33b1b4b8d78e2bf8f26
+
+COCOAPODS: 1.9.3
